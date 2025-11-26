@@ -14,15 +14,15 @@ Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Co
 </div>
 
 <p align="center">
-  <a href="https://mastervito.github.io/SvS.github.io/"><b>[🌐 Website]</b></a> •
-  <a href="https://huggingface.co/datasets/RLVR-SvS/Variational-DAPO"><b>[🤗 Dataset]</b></a> •
-  <a href="https://arxiv.org/pdf/2508.14029v1"><b>[📜 Paper]</b></a> •
-  <a href="https://github.com/MasterVito/SvS"><b>[🐱 GitHub]</b></a> •
-  <a href="https://x.com/MasterVito0601/status/1959960582670766411"><b>[🐦 Twitter]</b></a> •
-  <a href="https://www.xiaohongshu.com/discovery/item/68ac220f000000001d03b785?source=webshare&xhsshare=pc_web&xsec_token=ABgRNEq2SWHDpaqHQVIdEoTMd8NOnA-NAuilqp1VyEn0Y=&xsec_source=pc_share"><b>[📕 Rednote]</b></a>
+  <!-- <a href="https://mastervito.github.io/SvS.github.io/"><b>[🌐 Website]</b></a> • -->
+  <a href="https://huggingface.co/HAGeo-IMO"><b>[🤗 Benchmark]</b></a> •
+  <a href=""><b>[📜 Paper]</b></a> •
+  <a href="https://github.com/boduan1/HAGeo"><b>[🐱 GitHub]</b></a> •
+  <a href="X"><b>[🐦 Twitter]</b></a> •
+  <a href="R"><b>[📕 Rednote]</b></a>
 </p>
 
 
 <p align="center">
-Repo for "<a href="https://arxiv.org/pdf/2508.14029v1" target="_blank">Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions</a>"
+Repo for "<a href="P" target="_blank">Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions</a>"
 </p>
