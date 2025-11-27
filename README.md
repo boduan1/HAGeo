@@ -28,7 +28,7 @@ Repo for "<a href="P" target="_blank">Gold-Medal-Level Olympiad Geometry Solving
 </p>
 
 <p align="center">
-    <img src="Method.png" width="1000">
+    <img src="assets/Method.png" width="1000">
         <br>
     <em>Figure 1: Overview of the HAGeo method. First, the DDAR engine deduces new statements in the problem. If the DDAR does not solve the problem, our heuristic-based strategy gives additional attempts for adds auxiliary constructions to help solve the problem and re-runs the DDAR.
     </em>
@@ -50,7 +50,7 @@ In the HAGeo framework (Figure. 1), a geometry problem is first converted into o
 We create the HAGeo-409 benchmark, which comprises 409 IMO-level geometry theorem-proving problems and **typically presents greater difficulty than the widely used IMO-30 benchmark.**
 
 <p align="center">
-    <img src="IMO-HAGeo-Difficulty.png" width="1000">
+    <img src="assets/IMO-HAGeo-Difficulty.png" width="1000">
         <br>
     <em>Figure 2: Problem difficulity distribution of the IMO-30 benchmark and our new HAGeo-409 benchmark. 
     </em>
