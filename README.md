@@ -34,17 +34,20 @@ Repo for "<a href="P" target="_blank">Gold-Medal-Level Olympiad Geometry Solving
     </em>
 </p>
 
+<br>
 
 ## 🔥 News
 - [2025/11/27] Our full code is under review by Microsoft and will be released upon approval.
 - [2025/11/27] The HAGeo paper, repo, and the <a href="https://huggingface.co/datasets/HAGeo-IMO/HAGeo-409">HAGeo-409 benchmark</a> are all released.
 - [2025/11/27] HAGeo is the first framework to <b>achieve gold-medal-level human performance on IMO-level geometry problem solving without using any neural models for inference</b>.
 
+<br>
 
 ## 💡 Introduction 
 <div style="text-align: justify;">
 In the HAGeo framework (Figure. 1), a geometry problem is first converted into our geometry-specific language and then processed to encode all its properties into a deduction graph. The Deduction Database (DD) and Algebraic Reasoning (AR) engines expand the deduction graph through a brute-force search over all deduction rules and by performing algebraic deductions involving equations of length, ratio, or angle. If the DDAR fails to solve the problem, we further attempt K different auxiliary constructions based on our heuristic strategies, and the DDAR engine is rerun for each attempt. 
 
+<br>
 
 ## 📏 HAGeo-409 Benchmark
 We create the HAGeo-409 benchmark, which comprises 409 IMO-level geometry theorem-proving problems and **typically presents greater difficulty than the widely used IMO-30 benchmark.**
@@ -55,6 +58,8 @@ We create the HAGeo-409 benchmark, which comprises 409 IMO-level geometry theore
     <em>Figure 2: Problem difficulity distribution of the IMO-30 benchmark and our new HAGeo-409 benchmark. 
     </em>
 </p>
+
+<br>
 
 ## 📊 Evaluation
 
@@ -141,6 +146,7 @@ We create the HAGeo-409 benchmark, which comprises 409 IMO-level geometry theore
 | Random Auxiliary Points + DDAR   | 25     |
 | **HAGeo**                        | **28** |
 
+<br>
 
 ## ☕️ Citation
 
@@ -149,7 +155,6 @@ If you find this repository or our benchmark helpful, please consider citing our
 ```
 ```
 <br>
-
 
 ## 🌟 Star History
 
