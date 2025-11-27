@@ -40,7 +40,6 @@ Repo for "<a href="P" target="_blank">Gold-Medal-Level Olympiad Geometry Solving
 - [2025/11/27] Our full code is under review by Microsoft and will be released upon approval.
 - [2025/11/27] The HAGeo paper, repo, and the <a href="https://huggingface.co/datasets/HAGeo-IMO/HAGeo-409">HAGeo-409 benchmark</a> are all released.
 - [2025/11/27] HAGeo is the first framework to <b>achieve gold-medal-level human performance on IMO-level geometry problem solving without using any neural models for inference</b>.
-
 <br>
 
 ## 💡 Introduction 
