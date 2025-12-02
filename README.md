@@ -16,7 +16,7 @@ Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Co
 <p align="center">
   <!-- <a href="https://mastervito.github.io/SvS.github.io/"><b>[🌐 Website]</b></a> • -->
   <a href="https://huggingface.co/datasets/HAGeo-IMO/HAGeo-409"><b>[🤗 Benchmark]</b></a> •
-  <a href=""><b>[📜 Paper]</b></a> •
+  <a href="https://arxiv.org/abs/2512.00097"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/boduan1/HAGeo"><b>[🐱 GitHub]</b></a> •
   <a href="X"><b>[🐦 Twitter]</b></a> •
   <a href="R"><b>[📕 Rednote]</b></a>
@@ -24,7 +24,7 @@ Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Co
 
 
 <p align="center">
-Repo for "<a href="P" target="_blank">Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions</a>"
+Repo for "<a href="https://arxiv.org/abs/2512.00097" target="_blank">Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions</a>"
 </p>
 
 <p align="center">
