@@ -148,6 +148,15 @@ We create the HAGeo-409 benchmark, which comprises 409 IMO-level geometry theore
 If you find this repository or our benchmark helpful, please consider citing our paper:
 
 ```
+@misc{duan2025goldmedallevelolympiadgeometrysolving,
+      title={Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions}, 
+      author={Boyan Duan and Xiao Liang and Shuai Lu and Yaoxiang Wang and Yelong Shen and Kai-Wei Chang and Ying Nian Wu and Mao Yang and Weizhu Chen and Yeyun Gong},
+      year={2025},
+      eprint={2512.00097},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2512.00097}, 
+}
 ```
 
 ## 🌟 Star History
