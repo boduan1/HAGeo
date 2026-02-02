@@ -18,8 +18,8 @@ Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Co
   <a href="https://huggingface.co/datasets/HAGeo-IMO/HAGeo-409"><b>[🤗 Benchmark]</b></a> •
   <a href="https://arxiv.org/abs/2512.00097"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/boduan1/HAGeo"><b>[🐱 GitHub]</b></a> •
-  <a href="X"><b>[🐦 Twitter]</b></a> •
-  <a href="R"><b>[📕 Rednote]</b></a>
+  <a href="https://x.com/MasterVito0601/status/1996480066860269631"><b>[🐦 Twitter]</b></a> •
+  <a href="https://www.xiaohongshu.com/discovery/item/69312dca000000001e02cad8?source=webshare&xhsshare=pc_web&xsec_token=ABhUA-1kx6lU0kiVuEvC8FCmZ9zlaC_G0IgWFiv9DMuC4=&xsec_source=pc_share"><b>[📕 Rednote]</b></a>
 </p>
 
 
